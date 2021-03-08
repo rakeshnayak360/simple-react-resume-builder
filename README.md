@@ -1,6 +1,8 @@
 # Simple React Resume Builder
 Create a simple react resume builder project using html, css, React.
 
+[Preview](https://github.com/rakeshnayak360/simple-react-resume-builder/blob/main/demo/resume-template.pdf "Preview")
+
 ### Installation
 - Clone the repo
 - Navigate to the folder
