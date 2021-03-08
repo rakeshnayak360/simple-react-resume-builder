@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.38f09c63.chunk.css",
-    "main.js": "/static/js/main.4f6836da.chunk.js",
-    "main.js.map": "/static/js/main.4f6836da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa720b67.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa720b67.js.map",
-    "static/js/2.3b0fd5d0.chunk.js": "/static/js/2.3b0fd5d0.chunk.js",
-    "static/js/2.3b0fd5d0.chunk.js.map": "/static/js/2.3b0fd5d0.chunk.js.map",
-    "static/js/3.5417125c.chunk.js": "/static/js/3.5417125c.chunk.js",
-    "static/js/3.5417125c.chunk.js.map": "/static/js/3.5417125c.chunk.js.map",
+    "main.css": "/simple-react-resume-builder/build/static/css/main.38f09c63.chunk.css",
+    "main.js": "/simple-react-resume-builder/build/static/js/main.4f6836da.chunk.js",
+    "main.js.map": "/simple-react-resume-builder/build/static/js/main.4f6836da.chunk.js.map",
+    "runtime-main.js": "/simple-react-resume-builder/build/static/js/runtime-main.fa720b67.js",
+    "runtime-main.js.map": "/simple-react-resume-builder/build/static/js/runtime-main.fa720b67.js.map",
+    "static/js/2.3b0fd5d0.chunk.js": "/simple-react-resume-builder/build/static/js/2.3b0fd5d0.chunk.js",
+    "static/js/2.3b0fd5d0.chunk.js.map": "/simple-react-resume-builder/build/static/js/2.3b0fd5d0.chunk.js.map",
+    "static/js/3.5417125c.chunk.js": "/simple-react-resume-builder/build/static/js/3.5417125c.chunk.js",
+    "static/js/3.5417125c.chunk.js.map": "/simple-react-resume-builder/build/static/js/3.5417125c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.38f09c63.chunk.css.map": "/static/css/main.38f09c63.chunk.css.map",
-    "static/js/2.3b0fd5d0.chunk.js.LICENSE.txt": "/static/js/2.3b0fd5d0.chunk.js.LICENSE.txt"
+    "static/css/main.38f09c63.chunk.css.map": "/simple-react-resume-builder/build/static/css/main.38f09c63.chunk.css.map",
+    "static/js/2.3b0fd5d0.chunk.js.LICENSE.txt": "/simple-react-resume-builder/build/static/js/2.3b0fd5d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa720b67.js",
